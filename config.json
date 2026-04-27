@@ -1,0 +1,14 @@
+{
+    "name": "Chambery",
+    "code": "CHY",
+    "description": "Porte de la Savoie",
+    "population": 58000,
+    "initialViewState": {
+        "zoom": 12,
+        "latitude": 45.566,
+        "longitude": 5.920,
+        "bearing": 0
+    },
+    "creator": "Rémi",
+    "version": "1.0.0"
+}
